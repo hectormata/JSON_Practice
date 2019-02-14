@@ -1,0 +1,6 @@
+{
+  "hostName": "ivr",
+  "IPAddress": "10.123.34.X",
+  "instanceID": 1,
+  "reqType":"full"
+}
