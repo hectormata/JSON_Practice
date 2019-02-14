@@ -1,6 +1,14 @@
-{
-  "hostName": "ivr",
-  "IPAddress": "10.123.34.X",
-  "instanceID": 1,
-  "reqType":"full"
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
