@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "hostName": "ivr",
+  "instanceID": 1,
+  "IPAddress": "10.123.34.X",
+  "regType": "full",
+  "id": 2
 }
